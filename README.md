@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @cslprgmr
+- 👀 I’m interested in data structures and algorithms...
+- 🌱 I’m currently learning python...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me mid_tarsi0d@icloud.com...
+
+<!---
+cslprgmr/cslprgmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+Feel free to use all the data structures and algorithms exercises, 
+I have used python to code, as a learner ease of understanding is more important than the optimization  
